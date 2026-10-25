@@ -47,5 +47,16 @@ app.*.map.json
 # Widget Preview related
 .widget_preview/
 
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
 # Local Android SDK paths
 **/local.properties
