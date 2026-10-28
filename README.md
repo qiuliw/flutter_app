@@ -1,8 +1,14 @@
 # flutter_app
 
-跨平台 flutter 模板工程。
+跨平台 flutter 模板工程（仅包管理，不含具体工程）。
 
 flutter 版本 取 mise 和 devenv 短的一方。
+
+## 创建工程
+
+```sh
+flutter create . --project-name xxx
+```
 
 ## Linux
 
